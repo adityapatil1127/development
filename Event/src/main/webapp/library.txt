@@ -1,0 +1,8 @@
+static an dynamic library
+
+-->library is an collection of pre defined functions.
+-->library is collection of object code.
+-->library is pre compiled code.
+  A library is collection of function . unlike object file ,a lib file stores each function individually.
+  when the program uses the function which is in library ,it looks for the function defination and add the function code to your program
+AT the preprocessor stage all the header file will be added --->which contains function decleration (which does not occupy any memory at that stage)
