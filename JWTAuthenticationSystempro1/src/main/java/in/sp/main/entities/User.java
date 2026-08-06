@@ -21,6 +21,8 @@ public class User {
 	private String username;
 	
 	private String password;
-	
+
+
+	//Two data sets are enough
 
 }
